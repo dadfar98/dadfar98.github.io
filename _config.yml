@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Dadfar
 middle_name:
 last_name: Momeni
-email: dadfar.momeni@gmail.com
+email: momeni.dadfar@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   This is my personal page.
 footer_text: >
@@ -110,7 +110,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  The best way to reach my is through email. Feel free to contact me at dadfar.momeni@gmail.com
+  The best way to reach my is through email. Feel free to contact me at momeni.dadfar@gmail.com
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
